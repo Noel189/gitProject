@@ -2,9 +2,9 @@ body{
     background-color: red;
 }
 h1{
-    color: rgb(132, 0, 255);
+    color: red;
 }
 p{
-    color: yellow;
+    color: green;
     font-size: 2rem;
 }
