@@ -1,8 +1,8 @@
-boy{
+body{
     background-color: red;
 }
 h1{
-    color: red;
+    color: rgb(132, 0, 255);
 }
 p{
     color: yellow;
